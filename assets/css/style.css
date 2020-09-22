@@ -3103,7 +3103,8 @@ p {
 .contact-area {
   padding-top: 120px;
   padding-bottom: 130px;
-  background-color: #f4f6f7; }
+  background-color: #ffffff; }
+  /* background-color: #f4f6f7; } */
 
 p.form-message.success, p.form-message.error {
   font-size: 16px;
